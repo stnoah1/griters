@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Millennial!"
 author: "Paul Le"
-categories: tech-review
+categories: block-chain
 tags: [tech-review,sample]
 image: cuba-1.jpg
 ---
