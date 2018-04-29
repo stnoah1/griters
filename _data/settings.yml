@@ -11,12 +11,13 @@ menu:
 - {name: 'Deep Learning', folder: 'pages', file: 'dl.html'}
 - {name: 'Reinforcement Learning', folder: 'pages', file: 'rl.html'}
 - {name: 'Block Chain', folder: 'pages', file: 'block-chain.html'}
+- {name: 'TED', folder: 'pages', file: 'ted.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 #- {icon: 'linkedin', link: 'https://twitter.com/paululele'}
 #- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'envelope', link: 'mailto:stnoah1@gmail.com'}
+- {icon: 'envelope', link: 'mailto:griters.blog@gmail.com'}
 #- {icon: 'rss-square', link: 'feed.xml'}
 #- {icon: 'rss-square', link: 'rss-feed.xml'}
 
